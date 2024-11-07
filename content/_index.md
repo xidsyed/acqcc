@@ -3,13 +3,13 @@ title: A Curious Quest for Code and Clarity
 enableToc: false
 ---
 
-# greetings,
+## greetings,
 
 
 a curious quest for code and clarity is my personal blog. here you will find my writing on topics related to software development and others including projects and experiments i work on. feel free to look around. here are some links to get you started. 
 
 [long&nbsp;posts](/posts)&emsp;[short&nbsp;posts](/thoughts)&emsp;[android](/tags/android)&emsp;[leetcode](/leetcode)
-# the author
+## the author
 
 after 4 years of acquiring my computer science degree, having [[leetcode/Reverse LinkedList in Groups of K|reversed several linked lists]], learning about support vector machines and what an [[thoughts/abstract syntax trees|abstract syntax tree]] is, there wasn't much left to do but [[thoughts/on reshaping how we learn|transform the world]] with all that *computer science knowledge* one commit at a time. so here i am now with a beat-up acer and a dream on my back
 
@@ -17,7 +17,7 @@ after 4 years of acquiring my computer science degree, having [[leetcode/Reverse
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[me 2.webp\|110]] | **me**, [[thoughts/resume\|developer]] <br>builds&nbsp;stuff, mostly in android<br>[linkedin](https://linkedin.com/in/syedmohsin01) [twitter](https://twitter.com) [github](https://github.com) |
 
-## 🚧 currently cooking 
+### 🚧 currently cooking 
 as the lone chef in my digital kitchen i made the ever so popular mistake of cooking too many things at once. most of them would inevitably end up on the proverbial *back burner*. here on out we have only two burners:
 
 - **albatross** research and review
@@ -26,7 +26,7 @@ as the lone chef in my digital kitchen i made the ever so popular mistake of coo
 	- virtual Space for being productive with friends. A gamified virtual space where you level up by finishing your goals
 
 
-## 🎉 served 
+### 🎉 served 
 these are my older projects that have already been completed. they have been cooked to ~~perfection~~ satisfaction and served on my github for your perusal
 
 
@@ -68,10 +68,7 @@ no project list is complete without a good old-fashioned task app. a simple loca
 
 there are several more projects sitting [[thoughts/on reshaping how we learn|on the shelf]] or on my [github](https://github.com/xidsyed). for now im trying to stay focused on the important ones. anything of note will be published above. 
 
-# the blog
-
-
-![[garden.webp|300]]
+## the blog
 
 
 this blog is my journal and mental archive, where I publish my [writing](/posts) on the things I explore and work on. a lot of my writing focuses on [android](/tags/Android)  at the moment, but you’ll also find random [experiments](/tags/experiment) or friday night [philosophications ](/tags/philosophy). I also publish [shorter posts](/thoughts) just for the joy of it. have a look around. enjoy. 
