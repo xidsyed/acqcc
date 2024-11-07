@@ -121,7 +121,7 @@ a {
 }
 
 .page {
-  max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
+  max-width: calc(#{map-get($breakpoints, desktop)} + 200px);
   margin: 0 auto;
   & article {
     & > h1 {
@@ -144,9 +144,6 @@ a {
       margin-bottom: 0;
     }
 
-    p > strong {
-      color: var(--dark);
-    }
   }
 
   & > #quartz-body {
@@ -319,7 +316,7 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  color: var(--darkgray);
   font-weight: revert;
   margin-bottom: 0;
 
@@ -513,9 +510,9 @@ img {
   margin: 1rem 0;
 }
 
-p > img + em {
+p > img {
   display: block;
-  transform: translateY(-1rem);
+  // transform: translateY(-1rem);
 }
 
 hr {

@@ -1,0 +1,66 @@
+.search-and-darkmode {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 18px;
+  width: 100%;
+  max-width: 100%;
+  padding-right: 1em;
+
+  .search {
+    flex-grow: 1;
+    min-width: 0; // This allows the search to shrink below its content size
+
+    .search-button {
+      width: 100%;
+      p {
+        color: var(--gray);
+      }
+    }
+
+    .search-button svg {
+      .search-path {
+        stroke: var(--gray); // Change the stroke color instead of fill
+      }
+    }
+
+    #search-container {
+      width: 100%;
+    }
+  }
+
+  .darkmode {
+    flex-shrink: 0; // Prevents the button from shrinking
+    svg {
+      fill: var(--gray);
+    }
+  }
+}
+
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .search-and-darkmode {
+    gap: 8px;
+    .search {
+      flex-grow: 0; // Prevent search from growing on mobile
+      width: auto; // Allow it to shrink to content
+
+      .search-button, #search-container {
+        background-color: transparent;
+        p {
+          display: none;
+        }
+      }
+
+    }
+    .darkmode {
+      width: auto;
+
+      // Change the fill color of the darkmode SVGs
+      svg {
+        fill: var(--gray);
+      }
+    }
+  }
+}

@@ -1,0 +1,309 @@
+---
+title: "DSA Problems"
+date: 2023-05-05
+tags: [Untagged]
+aliases:
+- 
+summary: ""
+image:
+  src: ""
+  alt: ""
+---
+
+
+## Resources
+[⭐⭐ Most Important 145 LeetCode Interview Questions ⭐⭐](https://leetcode.com/problem-list/top-interview-questions/)
+[⭐⭐141 aggregated by engg FANG Leetcode PATTERNED Interview Questions organised by pattern, difficulty and company](https://seanprashad.com/leetcode-patterns/)
+[List of questions sorted by common patterns. - LeetCode Discuss](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
+[[Technical Interview Topics]]
+
+### Reading
+[Map Problems to known Problem Pattern Strategy for coding interviews](https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-interview-3ace)[Important and Useful links from all over the LeetCode - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode)[Java Syntax for DSA.pdf - Google Drive](https://drive.google.com/file/d/1ao4ZA28zzBttDkuS6MLQI52gDs_CJZEm/view)
+
+
+      
+## 🏆Contests
+[[6122. Minimum Deletions to Make Array Divisible]]
+[[6121. Query Kth Smallest Trimmed Number]]
+
+## ➕ Arithmetic
+- [x] [[50. Pow(x, n)]]
+- [ ] [[372. Super Pow]]
+- [ ] [[1509. Minimum Difference Between Largest and Smallest Value in Three Moves]]
+- [ ] [[1295. Find Numbers with Even Number of Digits]]
+- [x] [[Numbers divisible by a or b in range n]]
+
+
+## 🛤️ Arrays
+- [x] [[1. Two Sum]]
+- [x] [[26. Remove Duplicates from Sorted Array]]
+- [x] [[80. Remove Duplicates from Sorted Array II]]
+- [x] [[27. Remove Element]]
+- [x] [[35. Search Insert Position]]
+- [x] [[41. First Missing Positive]]
+- [x] [[448. Find All Numbers Disappeared in an Array]]
+- [x] [[287. Find the Duplicate Number]]
+- [x] [[442. Find All Duplicates in an Array]]
+- [x] [[268. Missing Number]]
+- [x] [[765. Couples Holding Hands]]
+- [x] [[645. Set Mismatch]]
+- [x] [[1980. Find Unique Binary String]]
+- [x] [[215. Kth Largest Element in an Array]]
+- [x] [[378. Kth Smallest Element in a Sorted Matrix]]
+- [x] [[First Repeating Element]]
+- [x] [[Smallest sum contiguous subarray]]
+- [x] [[53. Maximum Subarray]]
+- [x] [[1749. Maximum Absolute Sum of Any Subarray]]
+- [x] [[1574. Shortest Subarray  Removed to Make Array Sorted]]
+- [x] [[GFG Length of smallest subarray removed]]
+- [x] [[278. First Bad Version]]
+- [x] [[2053. Kth Distinct String in an Array]]
+- [x] [[523. Continuous Subarray Sum]]
+- [x] [[560. Subarray Sum Equals K]]
+- [x] [[713. Subarray Product Less Than K]]
+- [x] [[209. Minimum Size Subarray Sum]]
+- [x] [[23. Merge k Sorted Lists]]
+- [x] [[GFG Kth Largest Subarray]]
+- [x] [[GFG Merge k Sorted Arrays]]
+- [x] [[2294. Partition Array Such That Maximum Difference Is K]]
+- [x] [[632. Smallest Range Covering Elements from K Lists]]
+- [x] [[295. Find Median from Data Stream]]
+- [x] [[744. Find Smallest Letter Greater Than Target]]
+- [x] [[1920. Build Array from Permutation]]
+- [x] [[1470. Shuffle the Array]]
+- [x] [[1365. How Many Numbers Are Smaller Than the Current Number]]
+- [x] [[1512. Number of Good Pairs]]
+- [x] [[1389. Create Target Array in the Given Order]]
+- [x] [[1832. Check if the Sentence Is Pangram]]
+- [x] [[1773. Count Items Matching a Rule]]
+- [ ] [[42 Trapping Rain Water]]
+- [x] [[989. Add to Array-Form of Integer]]
+- [x] [[1854. Maximum Population Year]]
+- [x] [[1304. Find N Unique Integers Sum up to Zero]]
+- [x] [[1380. Lucky Numbers in a Matrix]]
+- [x] [[566. Reshape the Matrix]]
+- [x] [[66. Plus One]]
+- [x] [[GFG Longest Subarray having Sum K]]
+- [x] [[1217. Minimum Cost to Move Chips to The Same Position]]
+- [ ] [[73. Set Matrix Zeroes]]
+- [ ] [[238. Product of Array Except Self]]
+- [ ] [[6096. Successful Pairs of Spells and Potions]]
+- [ ] [[55. Jump Game]]
+- [ ] [[GFG Three Way Paritioning]]
+- [ ] [[75. Sort Colors]]
+- [ ] [[86. Partition List]]
+- [ ] [[198. House Robber]]
+- [ ] [[GFG Merge Without Extra Space]]
+- [ ] [[GFG Minimum Number of Jumps]]
+- [ ] [[Union and Intersection of Arrays]]
+- [ ] [[GFG Minimise the Heights]]
+- [ ] [[31. Next Permutation]]
+- [ ] [[315. Count of Smaller Numbers After Self]]
+- [ ] [[GFG Count Inversions]]
+- [ ] [[GFG Common Elements]]
+- [ ] [[GFG Rearrange array in alternating positive & negative items with O(1) extra space]]
+- [ ] [[GFG Factorials of large numbers]]
+- [ ] [[GFG Maximum Product Subarray]]
+- [ ] [[128. Longest Consecutive Sequence]]
+- [ ] [[169. Majority Element]]
+- [ ] [[229. Majority Element II]]
+- [ ] [[Given an array of size n and a number k, find all elements that appear more than n/k times]]
+- [ ] [[121. Best Time to Buy and Sell Stock]]
+- [ ] [[GFG Triplet Sum in Array]]
+- [ ] [[15. 3Sum]]
+- [ ] [[GFG Smallest Subarray Sum Smaller Than K]]
+- [ ] [[GFG Choclate Distribution Problem]]
+- [ ] [[GFG Minimum swaps and K together]]
+- [ ] [[GFG Palindromic Array]]
+- [ ] [[Minimum Number of Merges to make Palindrome]]
+- [ ] [[GFG Median of 2 Sorted Arrays of Same Size]]
+- [ ] [[4. Median of Two Sorted Arrays]]
+- [ ] [[46. Permutations]]
+- [ ] [[Kth Something]]
+- [ ] [[Two Sum in BST]]
+
+
+
+## 🔗 Linked List
+- [x] [[206. Reverse Linked List]]
+- [x] [[92. Reverse Linked List II]]
+- [x] [[Reverse LinkedList in Groups of K]]
+- [x] [[61. Rotate List]]
+- [x] [[Merge 2 Sorted Linked Lists]]
+- [x] [[GFG Detect Loop]]
+- [x] [[142. Linked List Cycle II]]
+- [x] [[GFG Remove Loop]]
+- [x] [[GFG Remove Duplicates]]
+- [x] [[GFG Add 1 to Linked List]]
+- [x] [[2. Add Two Numbers]]
+- [x] [[GFG Intersection of Two Sorted LLs]]
+- [x] [[160. Intersection of Two Linked Lists]]
+- [x] [[876. Middle of the Linked List]]
+- [x] [[148. Sort List]]
+- [x] [[GFG Split Circular Linked List into Two Halves]]
+- [x] [[GFG Check if Linked List is Palindrome]]
+- [x] [[GFG Reverse Doubly Linked List]]
+- [x] [[Reverse Doubly Linked List in Groups of K]]
+- [x] [[25. Reverse Nodes in k-Group]]
+- [x] [[Flatten a Linked List]]
+- [x] [[Sort Linked List if 0s, 1s and 2s]]
+- [x] [[Clone LL with Random Pointer]]
+- [x] [[Delete Nodes With Greater Value on Right]]
+- [x] [[First Non Repeating Character in Stream]]
+- [x] [[Swap Kth nodes from ends]]
+- [x] [[1721. Swapping Nodes in a Linked List]]
+- [x] [[23. Merge k Sorted Lists]]
+
+
+
+## 🌲 Binary Tree 
+- [ ] [[Binary Tree]]
+- [x] [[Count and Sum of Nodes]]
+- [x] [[Height of a Tree]]
+- [x] [[Diameter of a Tree]]
+- [x] [[Subtree of Another Tree]]
+- [x] [[Reverse Level Order Traversal]]
+- [x] [[BT Sum at Kth Level]]
+- [x] [[1161. Maximum Level Sum of a Binary Tree]]
+- [x] [[863. All Nodes Distance K in Binary Tree]]
+- [x] [[226. Invert Binary Tree]]
+- [x] [[101. Symmetric Tree]]
+- [x] [[Iterative Traversals of BT]]
+- [x] [[Left and Right View]]
+- [x] [[GFG Boundary Traversal of BT]]
+- [x] [[Vertical Traversal of BT]]
+- [x] [[Top - Bottom View of a Tree]]
+- [x] [[Zig Zag Traversal]]
+- [x] [[Diagonal Traversal of BT]] 
+- [x] [[Binary Tree to DLL]]
+- [x] [[Flatten Binary Tree to LL]]
+- [x] [[Balance Binary Tree]]
+- [x] [[105. Construct Binary Tree from Preorder and Inorder Traversal]]
+- [x] [[Sum Tree]]
+- [x] [[Leaf at same level]]
+- [x] [[652. Find Duplicate Subtrees]]
+- [x] [[297. Serialize and Deserialize Binary Tree]]
+- [x] [[GFG Sum of Longest Bloodline]]
+- [x] [[236. Lowest Common Ancestor of a Binary Tree]]
+- [x] [[437. Path Sum III]]
+- [ ] [[Maxiumum Sum of Non-Adjacent Nodes]]
+- [x] [[Kth Ancestor]]
+- [ ] [[106. Construct Binary Tree from Inorder and Postorder Traversal]]
+- [ ] [[Morris Traversals of Binary Tree]]
+- [ ] [[114. Flatten Binary Tree]] 
+- [ ] [[Check if Tree is Isomorphic]]
+- [ ] [[1483. Kth Ancestor of a Tree Node]]
+- [ ] [[1530. Number of Good Leaf Nodes Pairs]]
+- [ ] [[222. Count Complete Tree Nodes]]
+- [ ] [[1448. Count Good Nodes in Binary Tree]]
+
+
+## 🎄Binary Search Tree
+- [ ] [[Binary Search Tree]]
+- [ ] [[98. Validate BST]]
+- [ ] [[230. Kth Smallest Element in a BST]]
+- [ ] [[Inorder Predecessor and Successor in BST]] 
+- [ ] [[LCA in BST]]
+- [ ] [[Two Sum in BST]]
+- [ ] [[Flatten a BST]]
+- [ ] [[1382. Balance a Binary Search Tree]]
+- [ ] [[1008. Construct Binary Search Tree from Preorder Traversal]]
+- [ ] [[Populate Inorder Successor for all Nodes]]
+- [ ] [[Convert Sorted List to BST]]
+- [ ] [[Merge 2 BSTs]]
+- [ ] [[1932. Merge BSTs to Create Single BST]]
+- [ ] [[Two Sum with 2 BSTs]]
+- [ ] [[Replace every element with the least greater element on its right]]
+- [ ] [[Given n appointments, find all conflicting appointments]]
+- [ ] [[Check whether BST contains Dead End]]
+- [ ] [[Largest BST]]
+
+
+## 🏁 DP
+- [ ] [[Dynamic Programming]]
+### 01 Knapsack
+- [x] [[494. Target Sum]]
+- [x] [[416. Partition Equal Subset Sum]]
+- [x] [[Count of Subsets witth given Sum ]]
+- [x] [[1049. Last Stone Weight II]]
+- [ ] [[956. Tallest Billboard]]
+- [ ] [[1. Two Sum2]]
+- [x] [[Bank Transactions]]
+
+### General
+- [ ] [[198. House Robber]]
+- [ ] [[Shortest Impossible Sequence of Rolls]]
+
+
+## 🤏Greedy
+- [ ] [[122. Best Time to Buy and Sell Stock II]]
+- [x] [[N meetings in one room]]
+- [x] [[920. Meeting Rooms]]
+- [x] [[919 · Meeting Rooms II]]
+- [x] [[56. Merge Intervals]]
+- [x] [[452. Minimum Number of Arrows to Burst Balloons]]
+- [x] [[435. Non-Overlapping Intervals]]
+- [x] [[986. Interval List Intersections]]
+- [x] [[Job Sequencing Problem]]
+- [x] [[Police and Thieves]]
+- [ ] [[322. Coin Change]]
+- [ ] [[518. Coin Change 2]]
+
+
+
+## 🧵Strings
+- [x] [[6095. Strong Password Checker II]]
+- [x] [[38. Count and Say]]
+- [ ] [[Remove Consecutive Characters]]
+- [ ] [[796. Rotate String]]
+- [x] [[Longest Palindrome in String]]
+- [x] [[316. Remove Duplicate Letters]]
+- [x] [[1143. Longest Common Subsequence]]
+- [x] [[Longest Repeating Subsequence]]
+- [x] [[Print all Subsequences of a String]]
+- [x] [[Permutations of a Given String]]
+- [ ] [[Word Wrap Problem]]
+- [x] [[Edit Distance]]
+- [x] [[Next Permutation]]
+- [x] [[Parenthesis Checker]]
+- [x] [[139. Word Break]]
+- [x] [[140. Word Break II]]
+- [x] [[Rabin Karp]]
+- [x] [[Count the Reversals]]
+- [x] [[686. Repeated String Match]]
+- [ ] [[Count Palindromic Subsequences]]
+- [x] [[FInd String in Grid]]
+- [x] [[13. Roman to Integer]]
+- [x] [[14. Longest Common Prefix]]
+- [x] [[Minimum Number of Flips]]
+- [x] [[1963. Minimum Number of Swaps to Make the String Balanced]]
+- [x] [[93. Restore IP Addresses]]
+- [x] [[Smallest Distinct Window]]
+- [x] [[76. Minimum Window Substring]]
+- [x] [[767. Reorganise Substring]]
+- [x] [[KMP Algo]]
+- [x] [[Minimum Characters to be added to front to make string Palindrome ]]
+- [x] [[1312. Minimum Insertion Steps to Make a String Palindrome]]
+- [x] [[44. Wildcard Matching]]
+- [x] [[Count Customers Who Did Not Get A Computer]]
+- [x] [[Transform String]]
+- [ ] [[2027. Minimum Moves to Convert String]]
+
+## Matrices
+- [x] [[867. Transpose Matrix]]
+
+## Heap
+- [x] [[215. Kth Largest Element in an Array]]
+- [ ] 
+
+## Binary Search
+- [ ] [[34. Find First and Last Position of Element in Sorted Array]]
+- [ ] [[852. Peak Index in a Mountain Array]]
+- [x] [[2293. Min Max Game]]
+
+## Bit Manipulation
+- [ ] [[832. Flipping an Image]]
+- [ ] [[1252. Cells with Odd Values in a Matrix]]
+
+
+

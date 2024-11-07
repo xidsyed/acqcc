@@ -42,7 +42,7 @@ const defaultOptions: BreadcrumbOptions = {
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
-    displayName: displayName.replaceAll("-", " "),
+    displayName: displayName.replaceAll("-", " ").toLowerCase(),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
@@ -121,7 +121,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         })
       }
     }
-
+    
     return (
       <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (

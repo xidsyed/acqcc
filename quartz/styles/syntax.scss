@@ -9,7 +9,7 @@ code[data-theme*=" "] span {
 
 [saved-theme="dark"] code[data-theme*=" "] {
   color: var(--shiki-dark);
-  background-color: var(--shiki-dark-bg);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 [saved-theme="dark"] code[data-theme*=" "] span {

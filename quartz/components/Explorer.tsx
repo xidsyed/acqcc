@@ -99,8 +99,8 @@ export default ((userOpts?: Partial<Options>) => {
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
+            width="10"
+            height="10"
             viewBox="5 8 14 8"
             fill="none"
             stroke="currentColor"

@@ -30,25 +30,25 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Explore",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Made using",
     },
     graph: {
-      title: "Graph View",
+      title: "Graph",
     },
     recentNotes: {
-      title: "Recent Notes",
-      seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
+      title: "Recently Posted",
+      seeRemainingMore: ({ remaining }) => `${remaining} more →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
-      linkToOriginal: "Link to original",
+      linkToOriginal: "Read More",
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Search anything",
     },
     tableOfContents: {
       title: "Table of Contents",

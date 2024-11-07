@@ -188,8 +188,8 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
             <div class="folder-container">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
+                width="8"
+                height="8"
                 viewBox="5 8 14 8"
                 fill="none"
                 stroke="currentColor"
