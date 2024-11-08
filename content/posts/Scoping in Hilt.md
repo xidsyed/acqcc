@@ -2,11 +2,11 @@
 title: Scoping in Hilt
 date: 2023-12-09
 tags:
-  - Android
+  - android
 aliases: 
 summary: What is a scope?
 image:
-  src: "posts/attachments/article_preview_dagger_hilt_series.jpg"
+  src: posts/attachments/article_preview_dagger_hilt_series.jpg
   alt: ""
 ---
 ### Injecting dependencies without defining a Module

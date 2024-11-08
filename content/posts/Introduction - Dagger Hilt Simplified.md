@@ -2,11 +2,11 @@
 title: Introduction - Dagger Hilt Simplified
 date: 2023-11-27
 tags:
-  - Android
+  - android
 aliases: 
 summary: Grab that dagger by the hilt! Get started with the basics of Hilt in Android.
 image:
-  src: "posts/attachments/article_preview_dagger_hilt_series.jpg"
+  src: posts/attachments/article_preview_dagger_hilt_series.jpg
   alt: ""
 ---
 # Hi Developer 👋

@@ -2,10 +2,10 @@
 title: One Time UI Events and Nested Navigation Madness in Compose
 date: 2024-04-27
 tags:
-  - Android
-  - JetpackCompose
+  - android
+  - jetpackcompose
 aliases: 
-summary: My (probably over-engineered) solution for navigation events in jetpack compose for nested navigation graphs, following the principles of UDF 
+summary: My (probably over-engineered) solution for navigation events in jetpack compose for nested navigation graphs, following the principles of UDF
 image:
   src: posts/attachments/russian_dolls.png
   alt: Nested Russian Dolls

@@ -2,7 +2,7 @@
 title: Recursive Type Parameters in Kotlin
 date: 2024-10-09
 tags:
-  - Android
+  - android
 aliases:
   - whos-your-father
 summary: Recursive Type Parameter | Short Post

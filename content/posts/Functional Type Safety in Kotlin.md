@@ -2,7 +2,7 @@
 title: Functional Type Safety in Kotlin
 date: 2024-08-22
 tags:
-  - Android
+  - android
 aliases:
   - functional-type-safety-in-kotlin
 summary: Declare lambda signatures with this simple trick!

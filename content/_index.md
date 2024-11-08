@@ -8,7 +8,7 @@ enableToc: false
 
 a curious quest for code and clarity is my personal blog. here you will find my writing on topics related to software development and others including projects and experiments i work on. feel free to look around. here are some links to get you started. 
 
-[long&nbsp;posts](/posts)&emsp;[short&nbsp;posts](/thoughts)&emsp;[android](/tags/android)&emsp;[leetcode](/leetcode)
+[long&nbsp;posts](/posts)&emsp;[short&nbsp;posts](/thoughts)&emsp;[[tags/android|android]]&emsp;[leetcode](/leetcode)
 ## the author
 
 after 4 years of acquiring my computer science degree, having [[leetcode/Reverse LinkedList in Groups of K|reversed several linked lists]], learning about support vector machines and what an [[thoughts/abstract syntax trees|abstract syntax tree]] is, there wasn't much left to do but [[thoughts/on reshaping how we learn|transform the world]] with all that *computer science knowledge* one commit at a time. so here i am now with a beat-up acer and a dream on my back
@@ -30,13 +30,12 @@ as the lone chef in my digital kitchen i made the ever so popular mistake of coo
 these are my older projects that have already been completed. they have been cooked to ~~perfection~~ satisfaction and served on my github for your perusal
 
 
-#### news basket - a news app
+#### [news basket - a news app](https://github.com/xidsyed/NewsBasket)
 
 a minimal & efficient news app, built with the latest and greatest in android, that fetches the latest  
 - complete with an on-boarding flow, splash screen and a beautiful modern UI using **jetpack compose**.  
 - modular and clean architecture using **dagger hilt** for dependency injection and **data store** library for user preferences  
-- fetches the latest news from select sources from the [news api](https://newsapi.org) using **retrofit** 
-- source - [github](https://github.com/xidsyed/NewsBasket)  
+- fetches the latest news from select sources from the [news api](https://newsapi.org) using **retrofit**   
 
 |                                       |                                       |                                       |                                       |
 | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
@@ -71,6 +70,6 @@ there are several more projects sitting [[thoughts/on reshaping how we learn|on 
 ## the blog
 
 
-this blog is my journal and mental archive, where I publish my [writing](/posts) on the things I explore and work on. a lot of my writing focuses on [android](/tags/Android)  at the moment, but you’ll also find random [experiments](/tags/experiment) or friday night [philosophications ](/tags/philosophy). I also publish [shorter posts](/thoughts) just for the joy of it. have a look around. enjoy. 
+this blog is my journal and mental archive, where I publish my [writing](/posts) on the things I explore and work on. a lot of my writing focuses on [[tags/android|android]]  at the moment, but you’ll also find random [[tags/experiment|experiment]] or friday night [[tags/philosophy|philosophications]] . I also publish [shorter posts](/thoughts) just for the joy of it. have a look around. enjoy. 
 
 you can find my socials along with my resume in the footer. don't hesitate to reach out. enjoy!

@@ -2,7 +2,7 @@
 title: resume
 date: 2023-05-06
 tags:
-  - And
+  - android
 aliases:
   - resume
 summary: ""

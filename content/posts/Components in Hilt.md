@@ -2,11 +2,11 @@
 title: Components in Hilt
 date: 2023-12-01
 tags:
-  - Android
+  - android
 aliases: 
 summary: Components in Android Simplified
 image:
-  src: "posts/attachments/article_preview_dagger_hilt_series.jpg"
+  src: posts/attachments/article_preview_dagger_hilt_series.jpg
   alt: ""
 ---
 # Hi, What are components in Hilt?

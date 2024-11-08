@@ -2,12 +2,12 @@
 title: Dependency Binding in Hilt
 date: 2023-12-02
 tags:
-  - Android
+  - android
   - "#DaggerHiltIntroduction"
 aliases: 
 summary: Scopes? Components?? Bindings??? Huh!
 image:
-  src: "posts/attachments/article_preview_dagger_hilt_series.jpg"
+  src: posts/attachments/article_preview_dagger_hilt_series.jpg
   alt: ""
 ---
 # Hi,

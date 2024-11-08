@@ -2,14 +2,13 @@
 title: Android Studio Builds Performance with Windows Dev Drive
 date: 2023-11-20
 tags:
-  - "#Android"
-  - "#Performance"
-  - "#Experiment"
+  - "#android"
+  - "#experiment"
 aliases: 
 summary: Switch your android projects to dev drive now! Or should you?
 image:
-  src: "posts/attachments/article_preview_dev_drive.jpg"
-  alt: "Android X Dev Drive"
+  src: posts/attachments/article_preview_dev_drive.jpg
+  alt: Android X Dev Drive
 ---
 ![[posts/attachments/article_preview_dev_drive.jpg]]
 

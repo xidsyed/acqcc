@@ -2,11 +2,11 @@
 title: Demystifying Scoping in Dagger Hilt
 date: 2023-12-04
 tags:
-  - Android
+  - android
 aliases: 
 summary: Scopes? Components?? Bindings??? Huh!
 image:
-  src: "posts/attachments/article_preview_dagger_hilt_series.jpg"
+  src: posts/attachments/article_preview_dagger_hilt_series.jpg
   alt: ""
 ---
 
