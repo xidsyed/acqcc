@@ -17,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/xidsyed",
       "Linkedin": "https://www.linkedin.com/in/syedmohsin01/",
       "Twitter": "https://x.com/syedinator",
-      "Resume": "https://acqcc.blog/resume"
+      "Resume": "https://acqcc.blog/thoughts/resume"
     },
   }),
 }
