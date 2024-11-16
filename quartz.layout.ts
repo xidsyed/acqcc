@@ -57,8 +57,6 @@ export const defaultIndexPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.SearchAndDarkmode(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(indexExplorer),
   ],
   afterBody: [
     recentPosts,
