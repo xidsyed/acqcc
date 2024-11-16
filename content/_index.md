@@ -5,7 +5,6 @@ enableToc: false
 
 ## greetings,
 
-
 a curious quest for code and clarity is my personal blog. here you will find my writing on topics related to software development and others including projects and experiments i work on. feel free to look around. here are some links to get you started. 
 
 [long&nbsp;posts](/posts)&emsp;[short&nbsp;posts](/thoughts)&emsp;[[tags/android|android]]&emsp;[leetcode](/leetcode)
@@ -18,12 +17,12 @@ after 4 years of acquiring my computer science degree, having [[leetcode/Reverse
 | ![[me 2.webp\|110]] | **me**, [[thoughts/resume\|developer]] <br>builds&nbsp;stuff, mostly in android<br>[linkedin](https://linkedin.com/in/syedmohsin01) [twitter](https://twitter.com) [github](https://github.com) |
 
 ### 🚧 currently cooking 
-as the lone chef in my digital kitchen i made the ever so popular mistake of cooking too many things at once. most of them would inevitably end up on the proverbial *back burner*. here on out we have only two burners:
+as the lone chef in my digital kitchen, i made the all-too-common mistake of cooking too many things at once, with most inevitably ending up on the proverbial back burner. from now on, i've limited myself to just two burners.
 
 - **albatross** research and review
 	- a spaced-repetition and active-recall based personal knowledge application to explore, archive and interface with information.
-- **ciicii** spaces
-	- virtual Space for being productive with friends. A gamified virtual space where you level up by finishing your goals
+- **timecraft** time blocking and crafting
+	- time blocking app with purpose built features that make time tracking, blocking easier than it's ever been before
 
 
 ### 🎉 served 
@@ -42,23 +41,21 @@ a minimal & efficient news app, built with the latest and greatest in android, t
 | ![](https://i.imgur.com/CFAQmfl.jpeg) | ![](https://i.imgur.com/OfKyLUX.jpeg) | ![](https://i.imgur.com/xYZ6FfD.jpeg) | ![](https://i.imgur.com/jXsyZTh.jpeg) |
 
 
-#### kurunai - a benchmarking dsl 
+#### [kurunai - a benchmarking dsl ](https://github.com/xidsyed/Kurunei)
 
 a lightweight kotlin library that provides a simple idiomatic dsl in kotlin for benchmarking and profiling your code 
 - defines, composes, and executes benchmarks easily using **kotlin dsl**  
 - a benchmark is essentially a `time` block which is a named block of code that needs to be timed for the benchmark.  this block can be further composed of nested `time` blocks.
 - having a nested composable structure allows for detailed benchmarking and profiling of code.
-- supports modular benchmarks and generates detailed performance reports  
-- source - [github](https://github.com/xidsyed/Kurunei)  
+- supports modular benchmarks and generates detailed performance reports    
 
 ![[attachments/kurunai code example.png|600]]
 
-#### taskinator - a task app
+#### [taskinator - a task app](https://github.com/xidsyed/Taskinator-Alpha)
 
 no project list is complete without a good old-fashioned task app. a simple local task management app for personal task tracking  
 - features include task creation, updating, deleting, prioritizing, filtering, and searching  
 - built with **xml views**, **kotlin flows**, and **roomdb**, following **mvvm architecture** for a clean codebase  
-- source - [github](https://github.com/xidsyed/Taskinator-Alpha?tab=readme-ov-file)
 
 
 ![](https://i.imgur.com/bMp9HOw.gif)
