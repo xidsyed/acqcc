@@ -17,10 +17,18 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/xidsyed",
       "Linkedin": "https://www.linkedin.com/in/syedmohsin01/",
       "Twitter": "https://x.com/syedinator",
-      "Resume": "https://acqcc.blog/thoughts/resume"
     },
   }),
 }
+
+const recentPosts = Component.RecentNotes({
+  title: "Recently Posted",
+  limit: 4,
+  linkToMore: "posts/" as SimpleSlug,
+  filter: (f) =>
+    f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+  showTags: false
+})
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -39,28 +47,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.Backlinks()
   ],
-  afterBody: [],
+  afterBody: [
+    recentPosts
+  ],
 }
 
-const recentPosts = Component.RecentNotes({
-  title: "Recently Posted",
-  limit: 4,
-  linkToMore: "posts/" as SimpleSlug,
-  filter: (f) =>
-    f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-  showTags: false
-})
+
 const indexExplorer = Component.Explorer({filterFn: (node) => ["peek", "tags"].indexOf(node.name) == -1, useSavedState: false})
 // custom layout for the front page
 export const defaultIndexPageLayout: PageLayout = {
   beforeBody: [],
   left: [
-    Component.PageTitle(),
     Component.SearchAndDarkmode(),
+    
   ],
-  afterBody: [
-    recentPosts,
-  ],
+  afterBody: [],
   right: [
     Component.Graph(),
     Component.MobileOnly(indexExplorer),

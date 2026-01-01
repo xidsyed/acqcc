@@ -54,9 +54,11 @@ p {
 }
 
 
-// page width
-.page>#quartz-body {
-  gap: 80px;
+// Page width
+.page > #quartz-body {
+  gap: 0;
+
+  @media all and (min-width: 1200px) { gap: 80px; }
 }
 
 // Explorer and TOC Overflow Fade
@@ -108,6 +110,20 @@ a {
   // }
 }
 
+#recent-notes-title{
+  color: var(--darkgray);
+}
+
+
+.recent-notes>ul.recent-ul>li .section>.desc>h3>a {
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 svg.external-icon {
   display: none;
 }
@@ -126,15 +142,6 @@ svg.external-icon {
 }
 
 
-
-.recent-notes>ul.recent-ul>li .section>.desc>h3>a {
-  display: -webkit-box;
-  line-clamp: 2;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
 
 .folder-outer>ul>li {
   padding-top: 0.4rem;

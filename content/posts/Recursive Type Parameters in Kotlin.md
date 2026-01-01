@@ -68,13 +68,7 @@ interface TreeNode<T : TreeNode<T>> {
 class FileNode(
     val name: String,
     override val children: List<FileNode> = emptyList()
-) : TreeNode<FileNode>
-
-class DirectoryNode(
-    val path: String,
-    override val children: List<DirectoryNode> = emptyList()
-) : TreeNode<DirectoryNode>
-```
+234
 
 Now, I could write type-safe code without constant casting:
 
