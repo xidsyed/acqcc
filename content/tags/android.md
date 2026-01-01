@@ -8,4 +8,4 @@ my one true [[peek/the fall of naruto|love]] and my favorite technology that i l
 
 despite all the advances in developer tools with kotlin, the extension libraires, the [art runtime](https://source.android.com/docs/core/runtime#AOT_compilation), there are still several caveats and gotchas in android development. making sense of all the concurrency tools provided by kotlin like coroutines and flows, and using them efficiently while being aware of their limitations and rough edges is why it pays to be a developer. 
 
-i note down things about android development that i find interesting or that i experiment with on my that will appear here . feel free to reach out if you have any thoughts. links in the footer. 
+i note down things about android development that i find interesting or that i experiment with on my that will appear here . feel free to reach out if you have any thoughts. links in the footer.

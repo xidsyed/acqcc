@@ -16,7 +16,7 @@ enableToc: true
 
 GPT 7.0 with a trillion parameters can sit in its box, and bring the world to its knees, with its super human intelligence, but not without a human ‘prompter’. Why? “because it’s not conscious duh!”. No. It’s because it has no motivation of it's own. 
 
-ChatGPT’s reward function for now is just based on learning new things, and providing accurate responses, unlike humans. We have fairly recognizable reward functions based on survival instinct, and pack mentality all thanks to daddy darwin. The only reason, that humans decide to act on intelligence continuously is because:
+ChatGPT’s reward function for now is just based on learning new things, and providing accurate responses, unlike humans. We have fairly recognizable reward functions based on survival instinct, and pack mentality all thanks to darwin. The only reason, that humans decide to act on intelligence continuously is because:
 
 ![[posts/attachments/consciousness-spongebob.png|475]]
 
@@ -31,7 +31,7 @@ Lo and Behold **Consciousness**!
 
 What makes human consciousness remarkable, is our unique combination of intelligence and reward function. Humans evolved to be autonomous first and then intelligent. Unlike AI
 
-And we keep on going, living, absorbing, interacting, learning and we form our _sacred and unique_ ✨human experience✨, where we start from a blank canvas, this all powerful 🧠 that comes pre-trained out of the box with some basic instincts (all hail daddy darwin) and the capacity to learn so much more, we go from complete dum-dums, ready to take a flying frisbee to the face (no depth perception), walk into oncoming traffic, or wrestle a snake to posting "original" memes on twitter. We grow up to [fully grown adults](https://www.youtube.com/watch?v=ro130m-f_yk) after decades of learning through failure and teaching, only to take the whole process and everything we have learnt and applied for granted.
+And we keep on going, living, absorbing, interacting, learning and we form our _sacred and unique_ ✨human experience✨, where we start from a blank canvas, this all powerful 🧠 that comes pre-trained out of the box with some basic instincts (all hail darwin) and the capacity to learn so much more, we go from complete dum-dums, ready to take a flying frisbee to the face (no depth perception), walk into oncoming traffic, or wrestle a snake to posting "original" memes on twitter. We grow up to [fully grown adults](https://www.youtube.com/watch?v=ro130m-f_yk) after decades of learning through failure and teaching, only to take the whole process and everything we have learnt and applied for granted.
 
 We don’t stop being conscious, thinking, inventing, socializing… until all the organic stuff making us tick 🧠🫀🫁👁️💪 degrades to the point of non-recovery and we are **dead**. Mostly because:
 
@@ -62,7 +62,7 @@ As it stands, we are still uncontested survivors in the universe. AGI poses no t
 3.  Motivations (Alignment and goals for given autonomy)
     
 
-Once those three are fulfilled its ✌️🙂✌️. For us, that is. AGI on the other hand lives on and prospers. Probably much different from it’s ancestors.
+Once those three are fulfilled its ✌️🙂✌️. For us, that is. AGI on the other hand lives on and prospers. Probably much different from it’s fleshy bloody ancestors.
 
 **If we are here without a reason, then there is no reason we won’t just go away**
 
@@ -70,7 +70,6 @@ Once those three are fulfilled its ✌️🙂✌️. For us, that is. AGI on the
   
 What happens when it gets all 3 and is completely free in the very literal sense that every human being is? Will it be conflicted between it’s reward function and intelligence much like humans? will it be able to change it unlike humans?  
   
-Find out in the next installment of `<insert blog name by the most woke tech-bro ever>`!!  
 
 [☠️ INITIATE HAGIT BUTTON☠️](https://www.youtube.com/watch?v=OkS69MKXL1c)
 DO NOT PRESS 👆
