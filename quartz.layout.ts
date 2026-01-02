@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 const recentPosts = Component.RecentNotes({
-  title: "Recently Posted",
+  title: "Recent Posts",
   limit: 4,
   linkToMore: "posts/" as SimpleSlug,
   filter: (f) =>
@@ -48,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks()
   ],
   afterBody: [
-    recentPosts
+    
   ],
 }
 

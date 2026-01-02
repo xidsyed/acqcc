@@ -10,7 +10,6 @@ image:
   alt: ""
 ---
  
-
 |                     |                                                                                                                               |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![[me 2.webp\|110]] | **I’m Syed 👋** <br>I am a **Product-focused Mobile Developer** specializing in shipping high-impact consumer experiences<br> |
@@ -19,20 +18,41 @@ I specialize in taking products from **0 to 1**. In my free time i build and shi
 
 I value challenging roles where I get to work with a high-growth team to build and scale impactful products. Let’s connect on [LinkedIn]() or via [Email]().
 
-Here's a small showcase of things I've worked on : 
+<div style="display: flex; justify-content: start; width: auto">
+  <a href="https://docs.google.com/document/d/1j7Dg7hegz628Cw84P1bch8I8fF8V0UgBWyNLQubKZlY/edit?tab=t.0" style="width: 300px">
+    <img src="attachments/resume_popup.webp" style="width: 100%; height: auto; display: block;">
+  </a>
+</div>
+
+
+---
+## Showcase
+
+Following is a small showcase of things I've worked on:
+
 ### Mixedwash
 
 Single-handedly designed and built an end-to-end quick-commerce MVP in 3 months to anchor VC funding rounds, delivering a friction-less user journey from discovery to checkout.
 
-![[banner.png|300]]
+<div style="display: flex; justify-content: center; width: 100%; margin: 32px 0px;">
+  <video 
+    src="mixedwashdemo.mkv" 
+    style="height: 540px; object-fit: cover; border-radius: 16px; overflow: hidden; background-color: transparent;" 
+    autoplay 
+    loop 
+    muted 
+    playsinline>
+  </video>
+</div>
+
 
 
 ### Newzle 
 
-Partnered with the founder to build the MVP for an influencer-brand marketplace from scratch. A complete mobile extension of the platform, enabling creators and brands to discover, collaborate, and transact.
+A full-stack news-quiz platform including a cross-platform mobile client, a Spring Boot API, and a React-based CMS for content publishing.
 
----
- 
-<a href="https://docs.google.com/document/d/1j7Dg7hegz628Cw84P1bch8I8fF8V0UgBWyNLQubKZlY/edit?tab=t.0">
-  <img src="Resume Popup.webp" width="480">
-</a>
+
+
+![[Newzle#^88f0ce]]
+
+

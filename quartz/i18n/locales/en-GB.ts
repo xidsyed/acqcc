@@ -39,7 +39,7 @@ export default {
       title: "Graph",
     },
     recentNotes: {
-      title: "Recently Posted",
+      title: "Recent Posts",
       seeRemainingMore: ({ remaining }) => `${remaining} more →`,
     },
     transcludes: {
