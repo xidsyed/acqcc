@@ -6,8 +6,8 @@ aliases:
   - resume
 summary: ""
 image:
-  src: thoughts/attachments/preview_resume.png
-  alt: ""
+  src: posts/attachments/resume_popup.webp
+  alt: resume
 ---
  
 |                     |                                                                                                                               |
