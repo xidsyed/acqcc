@@ -32,7 +32,9 @@ Following is a small showcase of things I've worked on:
 
 ### Mixedwash
 
-Single-handedly designed and built an end-to-end quick-commerce MVP in 3 months to anchor VC funding rounds, delivering a friction-less user journey from discovery to checkout.
+Single-handedly designed and built an end-to-end quick-commerce MVP to anchor VC funding rounds, delivering a friction-less user journey from discovery to checkout.
+
+[mixedwash.in](https://mixedwash.in)
 
 <div style="display: flex; justify-content: center; width: 100%; margin: 32px 0px;">
   <video 
