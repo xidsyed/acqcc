@@ -16,10 +16,10 @@ image:
 
 I specialize in taking products from **0 to 1**. In my free time i build and ship my own standalone full-stack projects like **[Newzle](https://www.google.com/search?q=https://link-here.com)**. 
 
-I value challenging roles where I get to work with a high-growth team to build and scale impactful products. Let’s connect on [LinkedIn]() or via [Email]().
+I value challenging roles where I get to work with a high-growth team to build and scale  products. Let’s connect on [LinkedIn](https://www.linkedin.com/in/syedmohsin01/) or via [Email](mailto:mmsyed00@gmail.com).
 
 <div style="display: flex; justify-content: start; width: auto">
-  <a href="https://docs.google.com/document/d/1j7Dg7hegz628Cw84P1bch8I8fF8V0UgBWyNLQubKZlY/edit?tab=t.0" style="width: 300px">
+  <a href="https://docs.google.com/document/d/1j7Dg7hegz628Cw84P1bch8I8fF8V0UgBWyNLQubKZlY/export?format=pdf"  style="width: 300px" target="_blank">
     <img src="attachments/resume_popup.webp" style="width: 100%; height: auto; display: block;">
   </a>
 </div>
