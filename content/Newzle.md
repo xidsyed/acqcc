@@ -42,7 +42,7 @@ You swipe — and the story unfolds.
 Not for writing.
 
 All questions and stories are created by **real writers** using an internal editorial tool.  
-AI may assist *behind the scenes* to sift through daily news and surface potential stories, but the final content is always human-written and human-edited.
+AI is used in internal tools to assist *behind the scenes* to sift through daily news and surface potential stories, but the final content is always human-written and human-edited.
 
 
 ### When can I use it?

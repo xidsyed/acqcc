@@ -14,7 +14,7 @@ image:
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![[me 2.webp\|110]] | **I’m Syed 👋** <br>I am a **Product-focused Mobile Developer** specializing in shipping high-impact consumer experiences<br> |
 
-I specialize in taking products from **0 to 1**. In my free time i build and ship my own standalone full-stack projects like **[Newzle](https://www.google.com/search?q=https://link-here.com)**. 
+I specialize in taking products from **0 to 1**. In my free time i build and ship my own standalone full-stack projects like **[[Newzle|newzle]]**. 
 
 I value challenging roles where I get to work with a high-growth team to build and scale  products. Let’s connect on [LinkedIn](https://www.linkedin.com/in/syedmohsin01/) or via [Email](mailto:mmsyed00@gmail.com).
 
@@ -50,7 +50,6 @@ Single-handedly designed and built an end-to-end quick-commerce MVP in 3 months 
 ### Newzle 
 
 A full-stack news-quiz platform including a cross-platform mobile client, a Spring Boot API, and a React-based CMS for content publishing.
-
 
 
 ![[Newzle#^88f0ce]]
