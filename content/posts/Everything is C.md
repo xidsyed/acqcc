@@ -1,3 +1,16 @@
+---
+title: Everything is C
+date: 2025-01-10
+tags:
+  - programming
+aliases:
+  - everything-is-c
+summary: Just C all the way down
+image:
+  src: "attachments/tree_bird"
+  alt: ""
+---
+
 The abstraction layers of modern programming languages often obscure the fact that, at the execution level, almost all high-level code eventually flows through a runtime written in a systems language like C, C++, or Rust. Whether it is the Java Virtual Machine (JVM), the V8 engine, or the Python interpreter, these "engines" act as the bridge between human-readable logic and the machine instructions processed by the CPU. Understanding this bridge is essential for understanding performance bottlenecks and optimization strategies.
 
 ## Execution Architecture
